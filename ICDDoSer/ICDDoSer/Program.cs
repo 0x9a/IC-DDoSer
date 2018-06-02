@@ -51,7 +51,20 @@ namespace ICDDoSer
                           
                    }
                    break;
-            
+
+               case 2:
+                   {
+                       Console.WriteLine("This option will be completed shortly...!");
+                       Console.ReadLine();
+                   }
+                   break;
+
+               case 3:
+                   {
+                       Console.WriteLine("This option will be completed shortly...!");
+                       Console.ReadLine();
+                   }
+                   break;
         }
         }
     }
